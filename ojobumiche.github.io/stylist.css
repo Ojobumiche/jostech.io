@@ -1,0 +1,65 @@
+body,
+html{
+	width: 100%;
+	height: 100;
+	font-family:Crimson+Pro;
+
+	  background: url(image.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+}
+
+hr{
+	border-width: 6px;
+	border-color: blue;
+	max-width: 65px;
+
+}
+ 
+ .buffer{
+ 	height: 10rem;
+ }
+h1{
+	font-weight: 50px;
+	font-family: Crimson+Pro;
+	text-transform: uppercase;
+	color: red;
+	text-align: center;
+}
+
+
+
+.btn{
+	font-weight: 700px;
+	border-radius: 300px;
+	background-color: green;
+}
+
+.btn-primary{
+	background-color: blue;
+	border-color: green;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+	padding color: red;
+	text-transform: uppercase;
+	border-color: blue;
+	border-width: 4px;
+
+}
+
+.btn-xl:  hover{
+	color: green;
+}
+
+button{
+	color: green;
+	text-align: center;
+}
+
+
