@@ -9,7 +9,7 @@ int average(int  (*ptf)(int, int), int a, int b);
 int main(void)
 {
 	int (*ptsum)(int x, int y) = sum;
-	int value = average(ptsum, 8,2);
+	int value = average(ptsum, 20,2);
 	printf("%d\n", value);
 	
 
