@@ -1,0 +1,13 @@
+body,
+html{
+    background-color: blue;
+
+}
+h1{
+    color: white;
+}
+ol{
+    text-align: left;
+    color: red;
+}
+
